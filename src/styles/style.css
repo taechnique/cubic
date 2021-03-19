@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+.App{
+    font-family: 'Ubuntu', sans-serif;
+}
+.menu-item a{
+    padding:0px 10px 0px 10px;
+}
+.menu-item .active{
+    color: #007cba;
+}
